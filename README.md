@@ -1,7 +1,7 @@
-#Jessie box for Vagrant (virtualbox)
+#Wheezy box for Vagrant (virtualbox)
 
 This repo contain definition files to build a
-[Vagrant](http://www.vagrantup.com) box based on the weekly Debian Jessie
+[Vagrant](http://www.vagrantup.com) box based on the weekly Debian Wheezy
 images.
 
 ##Dependencies
@@ -14,6 +14,6 @@ manager to build the image.
 
 Just run the following command in the repository root:
 
-    veewee vbox build adsy-debian-8.0.0
-    veewee vbox export adsy-debian-8.0.0
+    veewee vbox build adsy-debian-7.7.0
+    veewee vbox export adsy-debian-7.7.0
 
